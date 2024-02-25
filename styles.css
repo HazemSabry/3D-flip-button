@@ -44,4 +44,7 @@ body {
 }
 
 .hover-side {
+  color: white;
+  background-color: #069;
+  transform: rotateX(90deg) translateZ(75px);
 }
