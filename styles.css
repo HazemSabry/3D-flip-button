@@ -24,6 +24,10 @@ body {
   transform: translateZ(-75px);
 }
 
+.button:hover {
+  transform: rotateX(-90deg) translateY(75px);
+}
+
 .side {
   position: absolute;
   backface-visibility: hidden;
